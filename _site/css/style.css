@@ -50,6 +50,16 @@
   margin-bottom: 48px;
 }
 
+/** Social Buttons **/
+.social-buttons {
+  text-align:center;
+  margin-top: 16px;
+}
+
+.btn-medium {
+  background-color: #00AB6C;
+}
+
 
 /** Services section **/
 .service-list {
