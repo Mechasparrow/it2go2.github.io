@@ -3,6 +3,10 @@
 .navbar {
   background-color:white;
   border-radius: 0px;
+}
+
+.navbar-bottom {
+  width: 100%;
   border-bottom: 5px solid #C8161A;
 }
 
