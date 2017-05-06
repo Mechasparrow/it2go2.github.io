@@ -32,11 +32,21 @@
 }
 
 /** Carousel **/
-#mycarousel { 
+#mycarousel {
   max-width: 50rem;
   margin-left:auto;
   margin-right:auto;
 }
+
+#discount {
+  font-size: 2em;
+}
+
+.new-section {
+  text-align:center;
+
+}
+
 
 .carousel-section {
   background-color:white;
