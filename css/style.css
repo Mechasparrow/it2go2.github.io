@@ -32,7 +32,7 @@
 }
 
 /** Carousel **/
-#mycarousel { 
+#mycarousel {
   max-width: 50rem;
   margin-left:auto;
   margin-right:auto;
@@ -139,4 +139,9 @@ hr {
 
 .contact-page {
   padding-bottom: 56px;
+}
+
+.phone-number {
+  float:right;
+  margin-right: 25px;
 }
