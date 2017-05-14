@@ -95,6 +95,14 @@
   color:#0277BD;
 }
 
+/** Pricing **/
+.price {
+    color: #4CAF50;
+}
+
+
+
+
 /** Service section mobile **/
 @media only screen and (max-width: 768px) {
   .service img {
